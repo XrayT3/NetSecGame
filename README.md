@@ -10,13 +10,13 @@ To run this code you need an environment and access to cyst code. However, the v
 - If you don't have your environment
 
 ```bash
-python -m venv ai-dojo-venv-<yourusername>
+python3 -m venv ai-dojo-venv-<yourusername>
 ```
 
 - The environment can be activated with
 
 ```bash
-source ai-dojo-venv<yourusername>/bin/activate
+source ai-dojo-venv-<yourusername>/bin/activate
 ```
 
 - Install the requirements with 
